@@ -1,0 +1,6 @@
+{
+  "name": "agent-panel",
+  "version": "0.2.0",
+  "description": "Panel with all running agents: task, runtime, estimated remaining time, model, effort and current state",
+  "types": "./types/index.d.ts"
+}

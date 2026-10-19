@@ -1,0 +1,12 @@
+{
+  "name": "agent-panel-marketplace",
+  "description": "Marketplace for the agent-panel plugin.",
+  "owner": { "name": "Michael" },
+  "plugins": [
+    {
+      "name": "agent-panel",
+      "description": "Panel with all running agents: task, runtime, estimated remaining time, model, effort and current state.",
+      "source": "./plugin"
+    }
+  ]
+}
